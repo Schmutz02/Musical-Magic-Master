@@ -8,12 +8,12 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - PP
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Ground
+  - Drum
+  - Dialog
   - 
   - 
   - 
@@ -40,4 +40,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 682048737
+    locked: 0
+  - name: Overlay
+    uniqueID: 1807958835
     locked: 0
